@@ -5,3 +5,5 @@ scikit-learn
 matplotlib
 pytesseract
 opencv-python
+
+sudo apt install tesseract-ocr  # Ubuntu
