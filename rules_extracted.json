@@ -1,0 +1,11 @@
+{
+  "Pattern_0": [
+    {
+      "value": "Unit Operation",
+      "checkbox": false,
+      "unit_value": null,
+      "bg_color": "CCCCCC"
+    },
+    ...
+  ]
+}
