@@ -36,3 +36,19 @@ Store extracted patterns in a JSON rule file
 
 Allow human-in-the-loop feedback/editing of patterns
 
+
+
+************************
+🔚 Summary:
+Component	Description
+📄 parse_docx	Extracts text, tables, cell formatting, checkboxes, units
+🎨 visual_utils	Detects color, checkbox, and units
+🧠 pattern_detector	Uses AI (KMeans) to detect 5–7 patterns from tables
+👤 app.py	Streamlit UI for human approval of pattern rules
+
+🔜 Next Enhancements:
+Add editing UI for users to tweak detected patterns
+
+Export to structured CSV/JSON
+
+Integrate template-matching-based extraction
